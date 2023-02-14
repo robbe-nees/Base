@@ -550,6 +550,7 @@
     }
     #NAV-Contribute .nav-menu {
         width: 100%;
+        display: none;
         padding-bottom: 32px;
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
